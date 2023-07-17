@@ -1,0 +1,5 @@
+UserName IP PublicKey_Path
+usr1  IP1 /Users/inito/.ssh/id_rsa.pub
+usr2  IP2 /Users/inito/.ssh/id_rsa2.pub
+usr3  IP3 /Users/inito/.ssh/id_rsa3.pub
+usr4  IP4 /Users/inito/.ssh/id_rsa4.pub
